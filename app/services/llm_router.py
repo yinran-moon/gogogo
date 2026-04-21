@@ -4,13 +4,13 @@ from app.core.config import get_settings
 settings = get_settings()
 
 MODEL_ROUTING = {
-    "profile": "openai/qwen-plus",
-    "inspiration": "openai/qwen-plus",
-    "planning": "openai/qwen-plus",
-    "companion": "openai/qwen-plus",
-    "review": "openai/qwen-plus",
-    "validate": "openai/qwen-plus",
-    "fallback": "openai/qwen-plus",
+    "profile": "openai/qwen3.5-plus",
+    "inspiration": "openai/qwen3.5-plus",
+    "planning": "openai/qwen3.5-plus",
+    "companion": "openai/qwen3.5-plus",
+    "review": "openai/qwen3.5-plus",
+    "validate": "openai/qwen3.5-plus",
+    "fallback": "openai/qwen3.5-plus",
 }
 
 litellm.set_verbose = False

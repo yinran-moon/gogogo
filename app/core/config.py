@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     qwen_base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 
     default_llm_model: str = "deepseek/deepseek-chat"
-    review_llm_model: str = "openai/qwen-plus"
+    review_llm_model: str = "openai/qwen3.5-plus"
 
     embedding_model_name: str = "shibing624/text2vec-base-chinese"
 
