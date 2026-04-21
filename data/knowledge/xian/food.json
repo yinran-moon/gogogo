@@ -1,0 +1,53 @@
+[
+  {
+    "name": "肉夹馍",
+    "description": "西安标志性美食，腊汁肉夹白吉馍",
+    "recommended_shops": [
+      {"name": "子午路张记肉夹馍", "address": "子午路", "price": "15-20元/个", "tips": "本地人最爱，纯瘦/肥瘦可选"},
+      {"name": "樊记腊汁肉夹馍", "address": "竹笆市", "price": "15-22元/个", "tips": "老字号百年老店"}
+    ],
+    "tips": "正宗肉夹馍是白吉馍+腊汁肉，不是烤饼夹肉；建议要肥瘦相间的最香"
+  },
+  {
+    "name": "羊肉泡馍",
+    "description": "西安最具代表性的主食，需自己掰馍",
+    "recommended_shops": [
+      {"name": "老米家大雨泡馍", "address": "回民街/洒金桥", "price": "人均35-50", "tips": "小碗更入味"},
+      {"name": "老孙家泡馍", "address": "东大街", "price": "人均40-55", "tips": "百年老字号"}
+    ],
+    "tips": "馍要自己掰成黄豆大小（越小越入味）；配糖蒜和辣椒酱吃"
+  },
+  {
+    "name": "凉皮",
+    "description": "陕西特色凉菜，酸辣爽口",
+    "recommended_shops": [
+      {"name": "魏家凉皮", "address": "连锁店", "price": "10-15元", "tips": "标准化出品，不踩雷"}
+    ],
+    "tips": "分为麻酱凉皮和油泼辣子凉皮两种，建议搭配肉夹馍一起吃（三秦套餐）"
+  },
+  {
+    "name": "biangbiang面",
+    "description": "陕西特色宽面，一根面有腰带那么宽",
+    "recommended_shops": [
+      {"name": "biangbiang面老店", "address": "回民街附近", "price": "15-25元", "tips": "油泼辣子面最经典"}
+    ],
+    "tips": "biang字是中国最复杂的汉字之一；面条很宽很筋道，分量大"
+  },
+  {
+    "name": "灌汤包",
+    "description": "皮薄汤多的包子",
+    "recommended_shops": [
+      {"name": "贾三灌汤包", "address": "回民街", "price": "人均25-35", "tips": "牛肉灌汤包最有名"},
+      {"name": "志亮灌汤蒸饺", "address": "洒金桥", "price": "人均20-30", "tips": "本地人更推荐"}
+    ],
+    "tips": "吃法：先咬小口喝汤，再吃馅；小心烫嘴"
+  },
+  {
+    "name": "甑糕",
+    "description": "糯米红枣蒸制的传统糕点",
+    "recommended_shops": [
+      {"name": "东南亚甑糕", "address": "洒金桥", "price": "5-10元/份", "tips": "早上排队很长但值得"}
+    ],
+    "tips": "软糯香甜，枣香浓郁；建议早上买，下午可能卖完"
+  }
+]
